@@ -1,4 +1,4 @@
-### ?? ***Boom is available for***:
+### ?? ***Virus is available for***:
 
 * Termux
 
@@ -49,24 +49,24 @@ __Save__ :
 - From this option you can repair damaged device of your victm from that virus by just installing this anti-virus in his device.
 
 __Update__ :
-- From this option you can update the boom script.
+- From this option you can update the virus script.
 
 __Exit__ :
-- From this option you can exit from boom tool 
+- From this option you can exit from virus tool 
 
 
 
 ## ?? ***Join***
 
 ### Facebook page: 
-https://www.facebook.com/labibmirza11
+https://www.facebook.com/legend.and.criminal.boyz
 
 
 ### Instagram: 
 https://www.instagram.com/labib__mirza
 
 ### My GitHub ID link:
-https://www.github.com/labibhacker
+https://www.github.com/legend-and-criminal-boyz
 
 ### ?? Warning
 
