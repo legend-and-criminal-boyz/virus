@@ -19,7 +19,7 @@ $ pkg install python2 -y
 $ pkg install git -y
 ```
 ```
-$ git clone https://github.com/labibhacker/virus
+$ git clone https://github.com/legend-and-criminal-boyz/virus
 ```
 ```
 $ ls
